@@ -65,7 +65,7 @@ textY = 10
 over_text = pygame.font.Font('freesansbold.ttf', 64)
 
 # Game state
-game_started = False
+game_started = True
 game_over = False
 show_leaderboard = False
 play_again = False
